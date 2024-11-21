@@ -1,0 +1,15 @@
+body{
+    text-align: center;
+}
+h1{
+    font-family: fantasy;
+    background-color: rgb(200, 166, 124);
+    border: 5px solid;
+    padding: 3px;
+
+}
+p{
+    background-color: rgb(165, 129, 53);
+    border: 5px solid;
+    
+}
